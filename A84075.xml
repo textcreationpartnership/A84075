@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ministers for tythes, being a manifest proof that these men are no ministers of the Gospel, who follow the magistrate for a worldly maintenance, and fee the lawyers to plead for tythes. By Willam [sic] Erbery.</title>
+            <author>Erbery, William, 1604-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84075</idno>
+            <idno type="STC">Wing E3232</idno>
+            <idno type="STC">Thomason E714_26</idno>
+            <idno type="STC">ESTC R201950</idno>
+            <idno type="EEBO-CITATION">99862427</idno>
+            <idno type="PROQUEST">99862427</idno>
+            <idno type="VID">166720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166720)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E714[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ministers for tythes, being a manifest proof that these men are no ministers of the Gospel, who follow the magistrate for a worldly maintenance, and fee the lawyers to plead for tythes. By Willam [sic] Erbery.</title>
+                  <author>Erbery, William, 1604-1654.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for Giles Calvet [i.e. Calvert], at the signe of the Black spread-Eagle, at the West end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Salaries, etc. --  Early works to 1800.</term>
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166720:1" rendition="simple:additions"/>
+            <p>MINISTERS FOR TYTHES, BEING A manifeſt proof That theſe Men are No MINISTERS of the GOSPEL, Who follow the Magiſtrate for a worldly maintenance, and Fee the Lawyers to plead for Tythes.</p>
+            <p>By WILLAM ERBERY.</p>
+            <q>
+               <p>But they ſhall proceed no farther, for their folly ſhall be mani<g ref="char:EOLhyphen"/>fest unto All men,</p>
+               <bibl>2 Tim. 3.9.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J.C.</hi> For <hi>Giles Calvet,</hi> at the Signe of the Black ſpread-Eagle, at the Weſt end of <hi>Pauls,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166720:2"/>
+            <pb n="1" facs="tcp:166720:2"/>
+            <head>TO Doctor SEAMAN, Doctor BURGESS, AND The reſt of the Miniſters FOR <hi>TYTHES.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have been a Miniſter of the Church of <hi>England,</hi> as you are; Maſter of Arts of both Univerſities, and might have been Dr. in Divinity as well as you, had I ſo much mony, as the Miniſters have in their purſes.</p>
+            <p>But coming laſt Wedneſday to the <hi>Committee</hi> for Tythes, I expected there the <hi>Miniſters</hi> for Tythes,
+<note place="margin">Sept. 2.</note> to hear what they could ſay for themſelves. A <hi>Commit<g ref="char:EOLhyphen"/>tee</hi> for Tythes is a proper name, Honourable and honeſt men, being on a debate for Tythes on a civil account in point of Law: but <hi>Miniſters for Tythes</hi> is ſuch a thing, and Miniſters of the Goſpel to demand it as their ſpiritual due, its ſuch a monſter, that it made my Welſh blood to riſe at your Engliſh religion. I heard
+<pb n="3" facs="tcp:166720:3"/>that Dr. <hi>Seaman</hi> was that day to prove himſelf and his fellows Miniſters of the Goſpel: but becauſe he is a Godly man, and may ſerve to make a Chaplain for the Navy at Sea, I ſhall rather deal with Dr. <hi>Burges,</hi> becauſe he is a landed man, and has a great deal of money, being the better Sailer, who can ſhift his Sail and turn with the winde:
+<note place="margin">
+                  <hi>Rev.</hi> 18.17.</note> for as the <hi>Miniſters are Merchants; ſo they are thoſe Ship-maſters and Seamen,</hi> who have all the trade this day. Truly, I will not meddle with Dr. <hi>Burges</hi> his money, nor covet his <hi>Achans wedge;</hi> onely becauſe his Babyloniſh Garment is ſo thredbare, I took him once for a <hi>poor Sir John,</hi> or <hi>Welſh Curate,</hi> not for a Dr. or rich Divine, he was ſo meanly clad. No wonder that he and his brethren Petition for maintenance, for the Rich Miniſters are the pooreſt Men of the Nati<g ref="char:EOLhyphen"/>on; but becauſe I ſee the Prieſts and Univerſity-Do<g ref="char:EOLhyphen"/>ctors joyn together for Tythes, I'll tell them a Gene<g ref="char:EOLhyphen"/>va note worth their learning, <hi>Act.</hi> 6.9. The firſt bloo<g ref="char:EOLhyphen"/>dy <hi>perſecution of the Church of Chriſt, began from a coun<g ref="char:EOLhyphen"/>cil of Prieſts, with the ſuggeſtion of Univerſity-Doctors.</hi> And I believe the laſt perſecution of the Church, and of Chriſt in the Spirit,
+<note place="margin">
+                  <hi>The Chur<g ref="char:EOLhyphen"/>ches of De<g ref="char:EOLhyphen"/>von. Exeter, Baſtabl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> &amp;c.</note> wilbe by ſuch; for as the preſent Churches comply with the Presbyters in this of a ſet<g ref="char:EOLhyphen"/>led maintenance, ſo this being onely by Tythes, or ſome like thing, theſe muſt be accounted perſecuters of the Spirit as well thoſe. I will not ſpeak of men, how much they ſuffer by this, but the blood of God is ſhed this way, yea ſhed in vain, when made but the blood of a dead man.
+<note place="margin">
+                  <hi>Act.</hi> 20.28. <hi>Rev.</hi> 16.3. <hi>Joh.</hi> 19.24. <hi>Act.</hi> 1.4, 5.</note> 'Twas <hi>water and blood came forth from Chriſts ſide in his death,</hi> to ſhew that the Spirit of life, or living water was ſhed forth with it; as 'tis expreſt <hi>Act.</hi> 2.32. the <hi>promiſe of the Father and power from on high, or Baptiſm
+<pb n="3" facs="tcp:166720:3"/>of the Spirit,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 13.2.</note> being onely that which conſtituted a Goſple-Church, and made Miniſters of Goſpel; to go forth without this, is not onely to deceive men, but to deny God, to crucifie Chriſt, to ſtifle the Spirit, and ſtrangle the babe, even the new-born glory,
+<note place="margin">
+                  <hi>Zach.</hi> 2.5, 6, 7, 8. <hi>Dan.</hi> 7.27.</note> beginning to riſe on the Saints of the moſt High.</p>
+            <p>The <hi>Saints</hi> of the moſt high being men whom the Mi<g ref="char:EOLhyphen"/>niſters know not, I ſhal forbear to buſy their heads with this, only becauſe the Committee have buſineſs enough beſides, and better work to do then to wait on Mi<g ref="char:EOLhyphen"/>niſters for Tythes, therefore I ſhall propoſe two words to their Honours conſideration.</p>
+            <p n="1">1. That you have not the Miſſion,</p>
+            <p>Nor 2.
+<note place="margin">1 <hi>Tim.</hi> 4.14. 2 <hi>Tim.</hi> 1.6.</note> The Maintenance of Goſpel-Miniſters this day.</p>
+            <p>I ſay, not the Miſſion nor Commiſſion of Chriſt; becauſe no gift of the Spirit by laying on of hands. You are all <hi>Antichriſtian Prieſts,</hi> and <hi>Parliament-converts</hi> at beſt: I ſpeak not of your perſons, but of your pro<g ref="char:EOLhyphen"/>per office, 'tis Antichriſtian: being made Miniſters by <hi>holy orders,</hi> Deacons and <hi>Prieſts,</hi> therefore you plead <hi>for Tythes,</hi> having not repented of your <hi>Epiſcopal ordination,</hi> nor publikely diſowned your Miſſion by them.
+<note place="margin">
+                  <hi>Ezek.</hi> 45.10, 11</note> Thus being <hi>not aſhamed of your whoredoms, nor putting away the carcaſes of your Kings</hi> (or Biſhops) <hi>you cannot ſee the pat<g ref="char:EOLhyphen"/>tern of the Houſe of God, the faſhion and form thereof, the going out, and the coming in thereof, and the ordinances thereof.</hi>
+            </p>
+            <p>Secondly, What are you but Parliamentary con<g ref="char:EOLhyphen"/>verts? not like Maſter <hi>Stronge,</hi> who was of the <hi>Kings Army, a Cavalier Chaplaine, now an Independant Paſtor;</hi> but you are ſo <hi>weak,</hi> that you are faln not onely from your old profeſſed forms of Pariſh Churches, Com<g ref="char:EOLhyphen"/>mon-prayers,
+<pb n="4" facs="tcp:166720:4"/>mixt communions, <hi>&amp;c.</hi> but far below <hi>French and Scots Presbytery,</hi> who live not by <hi>Tithes</hi> (as you do, like <hi>legal Prieſts</hi>) nor having any tincture of a <hi>Prieſtly Ordination.</hi>
+            </p>
+            <p>Secondly, As your <hi>Miſsion,</hi> ſo your <hi>maintenance</hi> is not according to the Goſpel, being meerly by <hi>cuſtome, compulſion, or compact with the people,</hi> contrary to the ex<g ref="char:EOLhyphen"/>preſs <hi>command of Chriſt,</hi> and <hi>practice of the Apostle,</hi> who lived (next to God) on the <hi>Free contribution of the people.</hi>
+            </p>
+            <p>Firſt,
+<note place="margin">
+                  <hi>Matth.</hi> 10.9, 10.</note> ſaith Chriſt, <hi>The laborer is worthy of his hire,</hi> that is, when he ſent them forth <hi>without money in their purſe;</hi> therefore money, or a cuſtomary pay, is not according to Chriſt.</p>
+            <p>Secondly, If <hi>we have ſewen ſpirituals is it a great thing that we ſhould reap your carnal things?</hi>
+               <note place="margin">1 <hi>Cor.</hi> 9.11.</note> Mark, this is ſaid onely <hi>to the Church.</hi> Again, if to the world, thoſe who have <hi>received ſpirituals ought to return their temporals,</hi> elſe how can Miniſters in reaſon ſeek to reap where no fruit grows? Again, if any of the unconverted world, are willing to give, 'tis God and not man, Who can hinder their free-gift?</p>
+            <p>Thirdly, ſaith the Apoſtle, <hi>Even ſo hath the Lord or<g ref="char:EOLhyphen"/>dained that they which preach the Goſpel,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 9.14.</note> 
+               <hi>ſhould live of the Goſpel.</hi> True, 'tis <hi>ordained of God,</hi> not by <hi>Ordinance of Parliament.</hi> Again, you muſt <hi>Preach the Goſpel;</hi> that I queſtion,
+<note place="margin">
+                  <hi>Eph.</hi> 3.3, 5. <hi>Col.</hi> 4.3, 4.</note> and you can never anſwer (as I'lle tell you another time) the Goſpel being a <hi>Myſtery</hi> you know not, nor can <hi>manifeſt to men.</hi> Againe, to live <hi>of the Goſpel,</hi> is not by <hi>cuſtome, compulſion, or compact from people,</hi> but by divine providence, on that power and love of God in Men, to whom the Goſpel is preached, who would freely give, if you had that <hi>glad tydings</hi> to teach.
+<pb n="5" facs="tcp:166720:4"/>But becauſe you ſtill <hi>oppreſs their eſtates and ſpirits by your legal teaching and Tythes;</hi>
+               <note place="margin">1 <hi>Cor.</hi> 9.18.</note> therefore you are far from <hi>making the Goſpel without charge:</hi> which Scripture you dare not mention to the Committee.</p>
+            <p>Laſtly, let it appear to the Parliament and people of the Nation, that you are Miniſters of the Goſpel, that you have a Miſſion and Commiſsion from Chriſt, and the maintenance of Chriſt alſo; you may have liber<g ref="char:EOLhyphen"/>ty to preach the Goſpel freely, and go where you will, which is more then ever your forefathers ſaw, and a greater favour then any Governors of England gave to the godly preachers or people of God.</p>
+            <p>If you'l plead ſtill for Tythes as your right by law of the land, much more might the Biſhops do for theirs; who had the law for them, yet no lawyer to plead their cauſe: theſe fell to a worſe condition then you are yet, having not the fifth, nor a farthing of all their Lordly revenues allowed for their wives and children: The ſame wrath is coming on you apace, if love carry you not forth freely to Miniſter the Goſpel to men: but this you cannot do, therefore you muſt dye in want, though you are never ſo wealthy, that's your doom. Ah bleſſed God! how good men, and godly Miniſters are diſcovered this day? Sure 'tis the <hi>day of God,</hi> becauſe 'tis the <hi>diſcovery of man,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 40.5, 6.</note> to make <hi>all fleſh</hi> bare before him, and the <hi>goodlineſs of the fleſh</hi> to wither alſo.</p>
+            <p>The man of ſin, and <hi>Myſtery of iniquity muſt be firſt manifest in the Saints</hi> (that's a Myſtery indeed) I mean fully manifeſt: 'twas revealed in part before,
+<note place="margin">
+                  <hi>Iſa.</hi> 40.5, 6.</note> in the Po<g ref="char:EOLhyphen"/>piſh and prelatique Clergy. Again, 'twas no diſpute, but their own diſcovery threw them down: That is, by their iniquity, the Myſtery of iniquity came forth.
+<pb n="6" facs="tcp:166720:5"/>'Twas blood in the Papiſts, pride in the Prelates, per<g ref="char:EOLhyphen"/>ſecution, covetouſneſs, and cunning deſignes, in the Presbyter and others, makes it appear to All Men, they are no Miniſters of the Goſpel, But Miniſters for Tyths.</p>
+            <p>I was forced in my Spirit to write this to the world, to whom the Lord God will ſpeak good things, when all the Miniſtry of Man is ſilent.</p>
+            <p>
+               <hi>The Lord will be terrible to them: for he will famiſh all the Gods of the earth: Then men ſhall worſhip him every one from his place, even all the Iſles of the Heathen,</hi> Zeph. 2.11.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
